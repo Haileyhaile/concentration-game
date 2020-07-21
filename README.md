@@ -3,7 +3,7 @@ A Concentration game using Swift
 Concentration is a card game in which all of the cards are laid face down on a surface and two cards are flipped face up over each turn. The object of the game is to turn over pairs of matching cards.
 
 ![alt text](https://user-images.githubusercontent.com/55165183/88112170-24a23600-cb64-11ea-8542-c9a4f5c6b641.PNG)
-
+![alt text](https://user-images.githubusercontent.com/55165183/88112226-41d70480-cb64-11ea-98f0-d3d10f577d8a.PNG)
 
 # Learning Goals
 Learning Swift and iOS app development
